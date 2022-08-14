@@ -100,11 +100,7 @@ The final loss function is a combination of both for different layers.
 ## J(G)  = 	$\alpha$ * Jcontent + $\beta$ * Jstyle
 where alpha and beta are hyperparameters.
 
-<br>
-
 ## <a href="https://github.com/nikhilreddy2002/Envision-Real-Time-Style-Transfer"><strong>Find the code here»</strong></a>
-
-<br>
 
 ## Results
 
