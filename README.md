@@ -77,6 +77,7 @@ VGG is a deep CNN used to classify images. The layers in VGG19 model are as foll
 * Fully Connected (1000)
 * SoftMax
 
+For our purposes we require only the convolution layers (first 28).  
 
 ## Implementation
 a loss function which blends two images seamlessly to create visually appealing art, NST defines the following inputs:
